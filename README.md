@@ -5,3 +5,8 @@ I took the code base from here: https://gist.github.com/VideogameScrapbook/e1dc8
 
 # Usage
 Just enter the Steam path in the input line, ROMs will be written to the parent directory of program (not MMLC, this program ofc).
+
+# Supports
+- [x] Windows
+- [ ] Linux
+- [ ] Mac OS

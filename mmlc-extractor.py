@@ -70,7 +70,7 @@ def getpath():
 
 
 root = tk.Tk()
-root.title("MMLC RPC v0.1")
+root.title("MMLC ROM EXTRACTOR v1")
 root.geometry("500x100")
 
 label = tk.Label(root, text="Hello! Please, type here your Steam directory (remember to use backslash instead of slash):")
